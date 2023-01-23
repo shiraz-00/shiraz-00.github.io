@@ -1,0 +1,87 @@
+
+
+body {
+  background-color: black;
+text-align:left;
+color: rgba(255, 255, 255, 0.751);
+font-family: 'Noto Serif', serif;
+  font-size: 30px;
+  margin-top: 25px;
+  background-image: url('https://wallpaperaccess.com/full/1268172.jpg');
+
+}
+ h1 {
+  font-family: 'Secular One', sans-serif;
+  margin-top: 25px;
+  margin-right: 100px;
+  margin-left: 100px;
+  font-size: 50px;
+  text-align: center;
+}
+
+.mbph1 {
+  font-size: 40px;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+h2 {
+  font-family: 'Secular One', sans-serif;
+  margin-top: 0px;
+  text-align: center; 
+}
+h3 {font-family: 'Secular One', sans-serif;
+  margin-top: 0px;
+  text-align: center;
+}
+
+button {
+  background-color: rgba(255, 254, 254, 0);
+  border-color: aqua;
+  color: aqua;
+  border-radius: 15px;
+  font-family: 'Secular One', sans-serif;
+  font-size: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+p{ margin-top: 30px;
+  margin-right:100px;
+  margin-bottom: 30px;
+  margin-left: 100px;
+  padding-top: 30px;
+  padding-right: 70px;
+  padding-bottom: 30px;
+  padding-left: 70px;
+  }
+
+  a{
+    font-size:25px;
+    font-family: 'Noto Serif', serif;
+    ;
+  }
+
+  .linx {
+    display: block;
+    text-align: center;
+    color:aqua;
+  }
+
+  .bottom {
+    margin-bottom: 50px;
+  }
+
+  .mbp-pic {
+  display: block;
+  width: 30%;
+  height: 30%;
+  margin: auto;
+  }
+  #gif{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
